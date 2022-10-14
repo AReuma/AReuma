@@ -1,25 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=003458&height=300&section=header&text=Areuma&fontSize=120&fontAlign=70)
-
-<h2 align="center">🛠 Used Tool & Skill 🛠</h2>
-
-### Platforms & Languages
-
-<p align="center">
-    ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) 
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)    ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
-</p>
-
-### Tool
-<p align="center">
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) 
-</p>
-
-<h2 align="center"> 🌟 Contacts 🌟 </h2>
-
-<p align="center">
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://meur.tistory.com/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/muer_i) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kuuniin@gmail.com)](mailto:kuuniin@gmail.com)
-</p>
-
-<p>
-![AReuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=AReuma&show_icons=true&title_color=1b1a42&text_color=000000&icon_color=0b8ce5&bg_color=eff1f5&locale=en)&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuuniin)](https://solved.ac/kuuniin/) 
-</p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://capsule-render.vercel.app/api?type=transparent&amp;&amp;fontColor=003458&amp;height=300&amp;section=header&amp;text=Areuma&amp;fontSize=120" alt="header"></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">&lt;h2 align=“center”&gt;🛠 Used Tool &amp; Skill 🛠&lt;/h2&gt;</p>
+<h3 class="code-line" data-line-start=4 data-line-end=5 ><a id="Platforms__Languages_4"></a>Platforms &amp; Languages</h3>
+<p class="has-line-data" data-line-start="6" data-line-end="10">&lt;p align=“center”&gt;<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" alt="JAVA">   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=Spring%20Boot&amp;logoColor=white" alt="SpringBoot"><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3">    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" alt="JavaScript">    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white" alt="Vue.js"> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&amp;logo=Vuetify&amp;logoColor=white" alt="Vuetify">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Oracle-F80000.svg?&amp;style=flat-square&amp;logo=Oracle&amp;logoColor=white" alt="Oracle"><br>
+&lt;/p&gt;</p>
+<h3 class="code-line" data-line-start=11 data-line-end=12 ><a id="Tool_11"></a>Tool</h3>
+<p class="has-line-data" data-line-start="12" data-line-end="15">&lt;p align=“center”&gt;<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&amp;logo=IntelliJ%20IDEA&amp;logoColor=white" alt="IntelliJ_IDEA"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&amp;style=flat-square&amp;logo=Visual%20Studio%20Code&amp;logoColor=white" alt="Visual Studio Code"><br>
+&lt;/p&gt;</p>
+<p class="has-line-data" data-line-start="16" data-line-end="17">&lt;h2 align=“center”&gt; 🌟 Contacts 🌟 &lt;/h2&gt;</p>
+<p class="has-line-data" data-line-start="18" data-line-end="21">&lt;p align=“center”&gt;<br>
+<a href="https://meur.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=white" alt="Tistory"></a>  <a href="https://twitter.com/muer_i"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a> <a href="mailto:kuuniin@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kuuniin@gmail.com" alt="Gmail Badge"></a><br>
+&lt;/p&gt;</p>
+<p class="has-line-data" data-line-start="22" data-line-end="25">&lt;p&gt;<br>
+<img src="https://github-readme-stats.vercel.app/api?username=AReuma&amp;show_icons=true&amp;title_color=1b1a42&amp;text_color=000000&amp;icon_color=0b8ce5&amp;bg_color=eff1f5&amp;locale=en" alt="AReuma's GitHub stats">   <a href="https://solved.ac/kuuniin/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kuuniin" alt="Solved.ac Profile"></a><br>
+&lt;/p&gt;</p>
